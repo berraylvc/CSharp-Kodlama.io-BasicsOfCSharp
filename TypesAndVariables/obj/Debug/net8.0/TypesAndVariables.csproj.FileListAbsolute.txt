@@ -1,0 +1,14 @@
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.exe
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.deps.json
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.runtimeconfig.json
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.dll
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.dll
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\refint\TypesAndVariables.dll
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\ozyal\source\repos\Solution1\TypesAndVariables\obj\Debug\net8.0\ref\TypesAndVariables.dll
