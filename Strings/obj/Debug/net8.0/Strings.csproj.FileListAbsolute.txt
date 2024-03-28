@@ -1,0 +1,14 @@
+C:\Users\ozyal\source\repos\Solution1\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\ozyal\source\repos\Solution1\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\ozyal\source\repos\Solution1\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\ozyal\source\repos\Solution1\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\ozyal\source\repos\Solution1\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\ozyal\source\repos\Solution1\Strings\obj\Debug\net8.0\ref\Strings.dll
